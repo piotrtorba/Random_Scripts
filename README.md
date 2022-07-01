@@ -1,3 +1,6 @@
+#Python_Scripts
+#Working-Hour-Calculator
+
 #This simple program is to calculate and convert work time from clock format (1h = 60min)
 # to decimal fromat (1h = 100*1.666min.)
 #My employer demands monthly work raports in decimal format. OMG!
