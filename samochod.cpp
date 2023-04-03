@@ -3,18 +3,8 @@
 #include <stdio.h>
 #include <cstdio>
 #include <cstdlib>
-/* Powyzej linie 1-5 to biblioteki niezbedne do dzialania programu */
 
-/*Chcialem zastosowac funkcje pobierania znaku z klawiatury 'getch()',
- zeby nie uzywac klawisza 'Enter' do potwierdzania wyboru.
- System jednak nie rozpoznaje mi tej funkcji (byc moze brakuje jakiejs
-biblioteki albo powodem jest pisanie programu na konsoli Linuxa) dlatego
-uzylem funkcji 'getchar()' ktora trzeba potwierdzac klawiszem 'Enter'.
-Ponad to domyslna funkcja 'default' (linia 216) na koncu kodu jest przypisana do
-pierwszego 'switch'a (linia 43), ale wyswietla 'cout' podwojnie.
-Tez nie wiem dlaczego ???
-Musialem tez uzywac samych 'if'! Nie wiem dlaczego, ale konstrukcja
-'if'-'else if'-'else' w ogole mi tu nie dzialala!*/
+/*This is the project ('Console Car Simulator') submitted as a completion of 'Basics Of Programming in C++' classes at WSB Warsaw (1st Semester).*/
 
 using namespace std;
 
