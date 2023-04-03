@@ -1,2 +1,2 @@
-# python_scripts
-This repo contains basic Python scripts from my whole Python learning process.
+# Random Scripts
+This repo contains random scripts in Java, JS, Python
